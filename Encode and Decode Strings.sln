@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encode and Decode Strings", "Encode and Decode Strings\Encode and Decode Strings.csproj", "{567FF401-9F1A-46E0-84BC-30B122570326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567FF401-9F1A-46E0-84BC-30B122570326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567FF401-9F1A-46E0-84BC-30B122570326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567FF401-9F1A-46E0-84BC-30B122570326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567FF401-9F1A-46E0-84BC-30B122570326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3190372E-7EF9-467C-932E-B71C7BCE5E13}
+	EndGlobalSection
+EndGlobal
